@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gouitrain
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how yo code
+- 🌱 I’m currently learning how to code
 - ⚡ Fun fact: i LIKE CODE!
 
 <!---
